@@ -1,2 +1,1 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+Live version can be viewed at https://reedsweets.netlify.app/
